@@ -6,7 +6,7 @@ import time
 
 # === CONFIG ===
 AUTH_HEADER = "Basic bm9haWhkZXZtXzZpeWcwYThsMHE6"
-PROXY = "ndq79_gofastmail_online:Sufyan33@la.residential.rayobyte.com:8000"
+PROXY = "51.81.115.28:6969:sajag:op"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123.0 Safari/537.36"
 
 app = Flask(__name__)
