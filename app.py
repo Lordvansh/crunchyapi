@@ -6,7 +6,7 @@ import time
 
 # === CONFIG ===
 AUTH_HEADER = "Basic bm9haWhkZXZtXzZpeWcwYThsMHE6"
-PROXY = "51.81.115.28:6969:sajag:op"
+PROXY = "zxo.run.place:6969:chut:bhosda"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123.0 Safari/537.36"
 
 app = Flask(__name__)
